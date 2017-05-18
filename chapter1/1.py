@@ -2,7 +2,7 @@
 Implement an algorithm if a string has all unique characters 
 What if you cannot use additional data structures
 """
-#Brute force implemenation without using any data structures
+#Brute force implementation without using any data structures
 def brute_is_unique(string):
     stringlen = len(string)
     for i in range(stringlen):
