@@ -1,1 +1,1 @@
-My implementation of problem sets from cracking the coding interview
+My implementation of cracking the coding interview's problem sets
